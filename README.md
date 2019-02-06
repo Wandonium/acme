@@ -1,6 +1,6 @@
 # Wandonium Web Design
 
-An HTML5 Website With A Responsive Layout
+A HTML5 Website With A Responsive Layout
 
 ## Getting Started
 

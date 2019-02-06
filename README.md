@@ -19,7 +19,7 @@ Feel free to pull and use as you please.
 
 * **Hillary Wando** - *Initial work* - [PurpleBooth](https://github.com/Wandonium)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Wandonium/acme/contributors) who participated in this project.
 
 ## License
 

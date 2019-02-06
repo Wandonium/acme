@@ -4,7 +4,7 @@ A HTML5 Website With A Responsive Layout
 
 ## Getting Started
 
-Click [here](https://wandonium.github.io/acme/) to view the website in all its glory. See deployment for notes on how to deploy the project on a live system.
+Click [here](https://wandonium.github.io/acme/) to view the website in all its glory. This website was exclusively built with HTML and CSS. No javascript was used. Not even jQuery:blush:.
 
 ## Built With
 
